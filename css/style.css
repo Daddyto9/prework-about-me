@@ -1,6 +1,7 @@
 body {
-    background-image: url("../img/BG1Grad.jpg");
-    background-size: auto;
+    background-image: url('../img/BG1Grad.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
     color: #ffffff;
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
@@ -14,18 +15,21 @@ body {
 
 .masthead {
   padding: 6em 0;
-  background-image: url('..\img/Rock.png');
+  background-image: url('../img/Rock.png');
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .masthead-intro {
+    vertical-align: middle;
+    text-emphasis-position: center center;
     margin-bottom: 0.1em;
     font-size: 2em;
     color: #ffffff;
 }
 
 .masthead-heading {
+    text-emphasis-position: center center;
     margin-top: -0.2em;
     font-weight: bold;
     font-size: 6em;
