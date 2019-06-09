@@ -1,5 +1,6 @@
 body {
     background-image: url("../img/BG1Grad.jpg");
+    background-size: auto;
     color: #ffffff;
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
