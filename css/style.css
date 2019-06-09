@@ -1,5 +1,6 @@
 body {
-    color: #222222;
+    background-image: url("..\img/BG1Grad.jpg");
+    color: #ffffff;
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
@@ -12,7 +13,7 @@ body {
 
 .masthead {
   padding: 6em 0;
-  background-image: url('../img/code.jpg');
+  background-image: url('..\img/Rock.png');
   background-size: cover;
   background-repeat: no-repeat;
 }
