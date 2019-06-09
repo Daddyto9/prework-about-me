@@ -21,21 +21,32 @@ body {
 }
 
 .masthead-intro {
-    vertical-align: middle;
-    text-emphasis-position: center center;
     margin-bottom: 0.1em;
     font-size: 2em;
     color: #ffffff;
 }
+.masthead-intro > p {
 
+  margin-left: 2em;
+
+}
 .masthead-heading {
-    text-emphasis-position: center center;
+    text-align: center;
     margin-top: -0.2em;
     font-weight: bold;
     font-size: 6em;
     letter-spacing: -0.02em;
     text-transform: uppercase;
     color: #ffffff;
+}
+
+.center {
+
+    display: block;
+    margin-left: 1em;
+    margin-right: auto;
+    width: 50%;
+
 }
 
 .details {
