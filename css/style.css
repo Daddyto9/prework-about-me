@@ -7,6 +7,10 @@ body {
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+h2 {
+  text-align: center;
+}
+
 .content-footer,
 .masthead-heading,
 .masthead-intro {
