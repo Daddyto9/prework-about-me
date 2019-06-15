@@ -1,6 +1,7 @@
 body {
+    text-align: center;
     background-image: url('../img/BG1Grad.jpg');
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     color: #ffffff;
     font-size: 1em;
